@@ -1,2 +1,2 @@
-# Drugs_psychological_dependence
-In this project, we want to predict the possible dependency of people on certain medications.
+# COVID vaccination vs. mortality
+The COVID-19 pandemic has caused widespread devastation across the globe. The death toll has surpassed 4.5 million people as of the creation of this notebook, and the only viable solution to end the crisis is to vaccinate all sectors of society. Despite the well-documented benefits of vaccines, there is an increasing number of anti-vaccine groups emerging worldwide. This dataset was created to examine the correlation between coronavirus vaccination rates and mortality rates caused by the virus.
